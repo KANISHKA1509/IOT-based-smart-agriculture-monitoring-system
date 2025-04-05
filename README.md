@@ -1,8 +1,5 @@
 # IOT-based-smart-agriculture-monitoring-system
 IOT based smart agriculture monitoring system
-// Viral Science www.viralsciencecreativity.com www.youtube.com/c/viralscience
-// Blynk IOT Smart Plant Monitoring System
-
 /* Connections
 Relay. D3
 Btn.   D7
